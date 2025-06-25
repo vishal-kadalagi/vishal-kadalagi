@@ -1,9 +1,9 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Vishal+Kadalagi+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Enthusiast+%7C+Backend+Specialist;Welcome+to+my+animated+GitHub+profile!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Vishal+Kadalagi+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Explorer+%7C+AR+Innovator;Building+real-world+projects+with+impact!+%F0%9F%9A%80" />
 </p>
 
-<!-- Animated GIF Hero Section -->
+<!-- Hero GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coder at work"/>
 </p>
@@ -12,11 +12,15 @@
 
 ## 🪄 About Me
 
-- 🎓 Final year B.Tech student at KLE Tech, India
-- 💡 Passionate about building scalable backend systems & ML models
-- 🚀 Exploring cloud, DevOps, and automation
-- 🏆 Hackathon winner | Open source contributor
-- 🗣️ Loves sharing knowledge and mentoring juniors
+- 🎓 Final year B.Tech Student at **KLE Technological University**, Belagavi, India  
+- 👨‍💻 Passionate about **Full Stack Web Development**, **Backend Engineering**, and **ML Integrations**  
+- 🧠 Focused on building intelligent & scalable systems with **Node.js, React, MongoDB, Firebase, Python**, and more  
+- 🌐 Currently working on:  
+  - 🔊 **Podcast Summarization System with Translation & PDF Generation**  
+  - 👓 **Virtual Try-On for Eyewear using Augmented Reality**  
+- 🏆 Hackathon Winner | 💬 Peer Mentor | 🌱 Lifelong Learner  
+- 🛠️ Exploring **DevOps, Cloud Deployment (AWS, GCP), and CI/CD**  
+- 🗣️ Loves teaching juniors, open-source contributions & writing tech blogs
 
 ---
 
@@ -35,8 +39,20 @@
 ## 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,mongodb,firebase,tensorflow,pytorch,pandas,git,linux,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,mongodb,mysql,firebase,git,github,linux,vscode,python,cpp,c,tensorflow,pytorch,pandas" />
 </p>
+
+---
+
+## 🚀 My Highlight Projects
+
+- 🎧 [**Podcast Summarizer**](https://github.com/Vishal21042004/Podcast-Summarizer): Summarizes YouTube podcast videos with multilingual translation & PDF report generation.
+- 🕶️ [**Virtual Eyewear Try-On (AR)**](https://github.com/Vishal21042004/Virtual-TryOn-Eyewear): Try glasses online using WebGL, face tracking & JavaScript.
+- 🏥 [**Hospital DBMS System**](https://github.com/Vishal21042004/Hospital-Database): A CRUD-based hospital record system with proper ER modeling and SQL queries.
+- 📝 [**Student Dashboard**](https://github.com/Vishal21042004/Student-Dashboard): A sleek React + Node.js CRUD platform for managing academic profiles.
+- 🎲 [**Random Quote Generator with Speech**](https://github.com/Vishal21042004/Quote-Speaker): Built using JavaScript & SpeechSynthesis API.
+
+> 📍 Check out all my repos [here](https://github.com/Vishal21042004?tab=repositories)
 
 ---
 
@@ -51,44 +67,14 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Vishal21042004?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/See%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats & Contribution Snake
+## 📈 GitHub Stats & Snake
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishal21042004&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal21042004&theme=tokyonight" width="48%"/>
-  <br>
-  <img src="https://github.com/Vishal21042004/Vishal21042004/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <br><br>
+  <img src="https://github.com/Vishal21042004/Vishal21042004/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
-
----
-
-## 🧩 Fun Zone
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2300c6ff&textColor=%23ffffff" alt="Joke" />
-  <br>
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120" alt="Fun Coding"/>
-</p>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build Scalable APIs with FastAPI](#)
-- [Machine Learning Model Deployment 101](#)
-- [Mastering MongoDB Aggregations](#)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -98,18 +84,39 @@
   <img src="https://img.shields.io/badge/Hackathon%20Winner-FFD700?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Top%20Performer-1abc9c?style=for-the-badge&logo=star&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech%20Blogger-FF5733?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </p>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building an AI Podcast Summarizer from Scratch](#)
+- [Integrating AR with JS: Virtual Eyewear Try-On](#)
+- [Optimizing MongoDB Aggregations](#)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 💬 Let's Collaborate!
 
 > "Code is like humor. When you have to explain it, it’s bad." 😆  
-> Always open to collaboration, mentorship, and new ideas!
+> Always open to internships, collaborations, freelance gigs, and brainstorming new ideas. Let’s connect!
 
 ---
 
-<!-- Animated Footer -->
+## 🎉 Fun Zone
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2300c6ff&textColor=%23ffffff" alt="Dev Joke" />
+  <br>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120" alt="Fun Coding"/>
+</p>
+
+---
+
+<!-- Footer Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=90&section=footer"/>
 </p>
