@@ -1,6 +1,6 @@
 <!-- 🌊 Ocean Wave Style GitHub Profile README -->
 
-<!-- 🌊 Animated Ocean Header -->
+<!-- 🌊 Animated Ocean Header (Top) -->
 <p align="center">
   <img src="https://i.ibb.co/nMCFfzH/ocean-bg.gif" width="100%" alt="Ocean wave header"/>
 </p>
@@ -22,7 +22,7 @@
 - 🎓 Final Year B.Tech Student @ **KLE Tech, India**  
 - ⚙️ Passion for **Full Stack | DevOps | AR | ML**  
 - 🧪 Love prototyping futuristic web & system tools  
-- 🥇 Hackathon Winner | 💬 Open Source Contributor  
+- 🏁 Hackathon Participant | 💬 Open Source Contributor  
 - 📚 Currently working on: **Virtual Try-On for Eyewear** (AR+E-commerce)  
 - 🧩 Enjoy collaborating in team-based, high-energy environments
 
@@ -56,16 +56,17 @@
 
 ## 🏆 Highlights
 
-- 🥇 Smart City Hackathon – Real-Time Traffic Monitoring
+- 🛠️ Hackathon Participant – Smart City, Web Security, Healthcare domains
 - 🛡️ Secure Auth-based Chat App with Firebase
 - 🧠 AR Try-On System for Eyewear using Three.js + Python
-- 🎯 Finalist in multiple national-level hackathons
+- 🎯 Finalist in multiple national-level events
 
 ---
 
 ## 🌐 Let’s Connect <img src="https://img.icons8.com/fluency/48/handshake.png" width="28"/>
 <p align="center">
-  <a href="mailto:vishalkadalagi2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vishalkadalagi2004@gmail.com"><img src="https://img.shields.io/badge/Personal Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=+918105662155"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vishal-kadalagi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/vishal_k01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://www.buymeacoffee.com/VishalKadalagi"><img src="https://img.shields.io/badge/Buy_Me_Coffee-F49E00?style=flat-square&logo=buy-me-a-coffee&logoColor=white" /></a>
@@ -75,12 +76,12 @@
 
 ## 🤖 Fun Fact Generator <img src="https://img.icons8.com/emoji/48/robot-emoji.png" width="26"/>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&textColor=black" width="80%"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&textColor=black&bgColor=white" width="80%"/>
 </p>
 
 ---
 
-<!-- 🌊 Ocean-style Footer -->
+<!-- 🌊 Animated Ocean Footer -->
 <p align="center">
   <img src="https://i.ibb.co/8csjqfS/ocean-footer.gif" width="100%" alt="Ocean wave footer"/>
 </p>
