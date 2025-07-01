@@ -1,13 +1,11 @@
 <!-- 🌊 Ocean Wave Style GitHub Profile README -->
-<style>
-  body {
-    background: url('https://i.ibb.co/nMCFfzH/ocean-bg.gif') no-repeat center center fixed;
-    background-size: cover;
-    color: white;
-  }
-</style>
 
-<!-- 🌊 Animated Header with Ocean Wave Text -->
+<!-- 🌊 Animated Ocean Header -->
+<p align="center">
+  <img src="https://i.ibb.co/nMCFfzH/ocean-bg.gif" width="100%" alt="Ocean wave header"/>
+</p>
+
+<!-- 🌟 Animated Intro Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Vishal+%F0%9F%91%8B;Full+Stack+Dev+%7C+AR+Innovator+%7C+ML+Explorer;Let%E2%80%99s+Build+Cool+Stuff!+%F0%9F%9A%80" />
 </p>
@@ -17,7 +15,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<hr>
+---
 
 ## 🧠 About Me <img src="https://img.icons8.com/clouds/48/000000/brain.png" width="28"/>
 
@@ -25,6 +23,8 @@
 - ⚙️ Passion for **Full Stack | DevOps | AR | ML**  
 - 🧪 Love prototyping futuristic web & system tools  
 - 🥇 Hackathon Winner | 💬 Open Source Contributor  
+- 📚 Currently working on: **Virtual Try-On for Eyewear** (AR+E-commerce)  
+- 🧩 Enjoy collaborating in team-based, high-energy environments
 
 ---
 
@@ -33,15 +33,12 @@
 <div align="center">
 
 ### 🚀 Languages & Libraries
-
 <img src="https://img.icons8.com/color/48/javascript.png"/> <img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/typescript.png"/> <img src="https://img.icons8.com/color/48/c-programming.png"/>
 
 ### 🎨 Frontend
-
 <img src="https://img.icons8.com/color/48/react-native.png"/> <img src="https://img.icons8.com/color/48/html-5.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/tailwind_css.png"/> <img src="https://img.icons8.com/color/48/bootstrap.png"/> <img src="https://img.icons8.com/ios/50/threejs.png"/>
 
 ### 🔧 Backend / DB / Cloud
-
 <img src="https://img.icons8.com/color/48/nodejs.png"/> <img src="https://img.icons8.com/color/48/express.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/firebase.png"/> <img src="https://img.icons8.com/color/48/mongodb.png"/> <img src="https://img.icons8.com/fluency/48/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/github.png"/> 
 
 </div>
@@ -57,6 +54,15 @@
 
 ---
 
+## 🏆 Highlights
+
+- 🥇 Smart City Hackathon – Real-Time Traffic Monitoring
+- 🛡️ Secure Auth-based Chat App with Firebase
+- 🧠 AR Try-On System for Eyewear using Three.js + Python
+- 🎯 Finalist in multiple national-level hackathons
+
+---
+
 ## 🌐 Let’s Connect <img src="https://img.icons8.com/fluency/48/handshake.png" width="28"/>
 <p align="center">
   <a href="mailto:vishalkadalagi2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -69,12 +75,12 @@
 
 ## 🤖 Fun Fact Generator <img src="https://img.icons8.com/emoji/48/robot-emoji.png" width="26"/>
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2300c6ff&textColor=white" width="80%"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&textColor=black" width="80%"/>
 </p>
 
-<hr>
+---
 
 <!-- 🌊 Ocean-style Footer -->
 <p align="center">
-  <img src="https://i.ibb.co/8csjqfS/ocean-footer.gif" width="100%"/>
+  <img src="https://i.ibb.co/8csjqfS/ocean-footer.gif" width="100%" alt="Ocean wave footer"/>
 </p>
