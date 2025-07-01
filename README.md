@@ -47,9 +47,9 @@
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal21042004&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal21042004&theme=tokyonight" width="45%"/>
-  <img src="https://github.com/Vishal21042004/Vishal21042004/raw/output/github-contribution-grid-snake.svg" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-kadalagi&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kadalagi&theme=tokyonight" width="45%"/>
+  <img src="https://github.com/vishal-kadalagi/vishal-kadalagi/raw/output/github-contribution-grid-snake.svg" width="80%"/>
 </p>
 
 ---
