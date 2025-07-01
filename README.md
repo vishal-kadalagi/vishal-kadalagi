@@ -1,71 +1,80 @@
-<!-- 🚀 Animated Intro Header -->
+<!-- 🌊 Ocean Wave Style GitHub Profile README -->
+<style>
+  body {
+    background: url('https://i.ibb.co/nMCFfzH/ocean-bg.gif') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+  }
+</style>
+
+<!-- 🌊 Animated Header with Ocean Wave Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Vishal+Kadalagi+%F0%9F%91%8B;Full+Stack+Dev+%7C+ML+Explorer+%7C+AR+Innovator;Code.+Create.+Collaborate.+Repeat!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Vishal+%F0%9F%91%8B;Full+Stack+Dev+%7C+AR+Innovator+%7C+ML+Explorer;Let%E2%80%99s+Build+Cool+Stuff!+%F0%9F%9A%80" />
 </p>
 
-<!-- 💻 Hero GIF -->
+<!-- 👨‍💻 Animated Hero GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<hr>
+
+## 🧠 About Me <img src="https://img.icons8.com/clouds/48/000000/brain.png" width="28"/>
+
+- 🎓 Final Year B.Tech Student @ **KLE Tech, India**  
+- ⚙️ Passion for **Full Stack | DevOps | AR | ML**  
+- 🧪 Love prototyping futuristic web & system tools  
+- 🥇 Hackathon Winner | 💬 Open Source Contributor  
+
+---
+
+## 🧰 My Toolbox
+
+<div align="center">
+
+### 🚀 Languages & Libraries
+
+<img src="https://img.icons8.com/color/48/javascript.png"/> <img src="https://img.icons8.com/color/48/python.png"/> <img src="https://img.icons8.com/color/48/typescript.png"/> <img src="https://img.icons8.com/color/48/c-programming.png"/>
+
+### 🎨 Frontend
+
+<img src="https://img.icons8.com/color/48/react-native.png"/> <img src="https://img.icons8.com/color/48/html-5.png"/> <img src="https://img.icons8.com/color/48/css3.png"/> <img src="https://img.icons8.com/color/48/tailwind_css.png"/> <img src="https://img.icons8.com/color/48/bootstrap.png"/> <img src="https://img.icons8.com/ios/50/threejs.png"/>
+
+### 🔧 Backend / DB / Cloud
+
+<img src="https://img.icons8.com/color/48/nodejs.png"/> <img src="https://img.icons8.com/color/48/express.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/firebase.png"/> <img src="https://img.icons8.com/color/48/mongodb.png"/> <img src="https://img.icons8.com/fluency/48/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/github.png"/> 
+
+</div>
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal21042004&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal21042004&theme=tokyonight" width="45%"/>
+  <img src="https://github.com/Vishal21042004/Vishal21042004/raw/output/github-contribution-grid-snake.svg" width="80%"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 Final Year B.Tech @ **KLE Tech, Belagavi**  
-💡 Building products using `Node.js`, `React`, `Python`, `Firebase`  
-🧠 Interests: `AR`, `Cloud`, `DevOps`, `System Design`  
-🚀 Love Hackathons | 🤝 Teamwork | ⚙️ Automation  
-🌱 Currently learning `ML`, `WebAR`, `CI/CD`  
-
----
-
-## 🔗 Connect With Me
-
+## 🌐 Let’s Connect <img src="https://img.icons8.com/fluency/48/handshake.png" width="28"/>
 <p align="center">
-  <a href="mailto:vishalkadalagi2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="mailto:02fe23bcs431@kletech.ac.in"><img src="https://img.shields.io/badge/KLE%20Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vishal-kadalagi/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/vishal_k01/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.buymeacoffee.com/VishalKadalagi"><img src="https://skillicons.dev/icons?i=coffee" /></a>
+  <a href="mailto:vishalkadalagi2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishal-kadalagi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vishal_k01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.buymeacoffee.com/VishalKadalagi"><img src="https://img.shields.io/badge/Buy_Me_Coffee-F49E00?style=flat-square&logo=buy-me-a-coffee&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧰 Toolbox
-
+## 🤖 Fun Fact Generator <img src="https://img.icons8.com/emoji/48/robot-emoji.png" width="26"/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,nodejs,react,tailwind,bootstrap,mongodb,mysql,firebase,git,github,vercel,netlify,vscode,figma,postman,linux" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2300c6ff&textColor=white" width="80%"/>
 </p>
 
----
+<hr>
 
-## 📊 GitHub Stats
-
+<!-- 🌊 Ocean-style Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal21042004&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishal21042004&theme=tokyonight" width="48%"/>
+  <img src="https://i.ibb.co/8csjqfS/ocean-footer.gif" width="100%"/>
 </p>
-<p align="center">
-  <img src="https://github.com/Vishal21042004/Vishal21042004/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-FDCA00?style=for-the-badge&logo=medal&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Top%20Performer-1abc9c?style=for-the-badge&logo=star&logoColor=white"/>
-</p>
-
----
-
-## 🎉 Random Fun Fact
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2300c6ff&textColor=ffffff" />
-</p>
-
----
