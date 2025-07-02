@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 🎓 Final Year B.Tech Student @ **KLE Tech, India**
+- 🎓 Final Year B.E. Student @ **KLE Tech, India**
 - ⚙️ Passionate about **Full Stack | DevOps | AR | ML**
 - 🧪 Love building futuristic web & system tools  
 - 🏁 Hackathon Participant | Open Source Contributor  
@@ -95,8 +95,8 @@
 
 ---
 
-## 🤖 Tech Fun Fact Generator
-> C++, Python, Java, Engineering & IT only!
+## 🤖 Fun Fact 
+
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=white&textColor=black&qColor=blue&aColor=darkred&category=programming" width="90%" />
