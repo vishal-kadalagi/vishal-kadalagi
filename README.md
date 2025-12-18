@@ -1,26 +1,32 @@
-
-
-<!-- ✨ Animated Typing Intro -->
+<!-- 🌟 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Vishal;Full+Stack+Dev+|+AR+Innovator+|+ML+Explorer;Let%E2%80%99s+Build+Cool+Stuff!">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Vishal+Kadalagi;Full+Stack+Developer+%7C+Problem+Solver;AI%2FML+Explorer+%7C+Salesforce+Learner;Building+Products+That+Matter"
+  />
 </p>
 
-<!-- 👨‍💻 Hero Developer GIF -->
+<!-- 🚀 Modern Developer Illustration -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img 
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
+    width="320"
+    alt="Developer coding animation"
+  />
 </p>
 
 ---
 
-## About Me
+---
+## 🚀 About Me
 
-- 🎓 Final Year B.E. Student @ **KLE Tech, India**
-- ⚙️ Passionate about **Full Stack | DevOps | AR | ML**
-- 🧪 Love building futuristic web & system tools  
-- 🏁 Hackathon Participant | Open Source Contributor  
-- 🌐 My Portfolio: [vishal-web-portfolio2.vercel.app](https://vishal-web-portfolio2.vercel.app)
-- 📚 Currently working on: **Virtual Try-On for Eyewear (AR + E-commerce)**  
-- 🤝 Thrives in team-based, high-energy environments
+- 🎓 **Final Year B.E. – Computer Science & Engineering** @ **KLE Dr. M. S. Sheshgiri College of Engineering & Technology**
+- 💻 **Full Stack Developer** with hands-on experience in real-world web & system projects
+- 🤖 Interested in **AI/ML, LLM-based systems & intelligent automation**
+- ☁️ Exploring **Salesforce ecosystem & cloud-based platforms**
+- 🧪 Love building **scalable, user-focused products**
+- 🏁 **Hackathon participant** | Research paper presenter
+- 🌐 Portfolio: https://vishal-web-portfolio2.vercel.app
+- 🤝 Thrive in fast-paced, collaborative environments
 
 ---
 
@@ -30,30 +36,26 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" title="C Language"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React.js"/>
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
 </p>
 
-### 🔧 Backend & Cloud
+### 🛠 Backend & Databases
 <p align="left">
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="NodeJS"/>
-  <img src="https://img.icons8.com/color/48/express.png" title="ExpressJS"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/firebase.png" title="Firebase"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/express-js.png" title="Express.js"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL"/>
 </p>
-
 ### 🛠 Tools & Platforms
 <p align="left">
   <img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
@@ -68,6 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vishal-kadalagi&show_icons=true&theme=tokyonight" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kadalagi&theme=tokyonight" width="45%"/>
 </p>
+
 <p align="center">
   <img src="https://github.com/vishal-kadalagi/vishal-kadalagi/raw/output/github-contribution-grid-snake.svg" width="80%"/>
 </p>
@@ -76,7 +79,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:vishalkadalagi2004@gmail.com">
+  <a href="mailto:vishalkadalagi06@gmail.com">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=+916360430056">
@@ -95,13 +98,9 @@
 
 ---
 
-## 🤖 Fun Fact 
-
-
+## 🤖 Fun Fact
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=white&textColor=black&qColor=blue&aColor=darkred&category=programming" width="90%" />
 </p>
 
 ---
-
-
