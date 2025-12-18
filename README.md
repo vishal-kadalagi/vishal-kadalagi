@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/vishal-kadalagi/vishal-kadalagi/raw/output/github-contribution-grid-snake.svg" width="80%"/>
+  <img src="https://raw.githubusercontent.com/vishal-kadalagi/vishal-kadalagi/output/github-contribution-grid-snake.svg" width="80%"/>
 </p>
 
 ---
