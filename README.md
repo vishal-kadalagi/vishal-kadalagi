@@ -1,22 +1,23 @@
 <!-- 🌟 Animated Typing Header -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Vishal+Kadalagi;Full+Stack+Developer+%7C+Problem+Solver;AI%2FML+Explorer+%7C+Salesforce+Learner;Building+Products+That+Matter"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Hey+I'm+Vishal+Kadalagi;Full+Stack+Developer+%7C+Problem+Solver;AI%2FML+Explorer+%7C+Salesforce+Learner;Crafting+Clean+Scalable+Solutions"
   />
 </p>
 
-<!-- 🚀 Modern Developer Illustration -->
+<!-- 🚀 Animated Coding Illustration -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-    width="320"
-    alt="Developer coding animation"
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+    width="340"
+    alt="Animated developer coding"
   />
 </p>
 
 ---
 
----
+
+
 ## 🚀 About Me
 
 - 🎓 **Final Year B.E. – Computer Science & Engineering** @ **KLE Dr. M. S. Sheshgiri College of Engineering & Technology**
